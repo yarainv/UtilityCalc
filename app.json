@@ -13,17 +13,7 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ]
-  }
-}
-{
-  "expo": {
-    "name": "Utility Share Pro",
-    "slug": "utility-calc-pro-final",
-    "version": "1.0.0",
-    "android": {
-      "package": "com.utility.calc.pro"
-    },
+    ],
     "extra": {
       "eas": {
         "projectId": "11984f89-7f50-443a-b256-3a11b7d87ae1"
